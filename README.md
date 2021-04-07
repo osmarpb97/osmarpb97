@@ -20,16 +20,7 @@
 <p align="left" style="margin-right:10px"> <img 
     src="https://camo.githubusercontent.com/709f3cbabb06b8896edf6890835a638693bb9f70e6002a959e189190d55d6111/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033" alt="osmarpb97" /> </p>
 </div>
-<div style="display:flex">
-    <div style="margin-right:10px">
-        <h2 align="left">Github Stats </h2>
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osmarpb97&show_icons=true&locale=en&theme=buefy" alt="osmarpb97" /></p>
-    </div>
-    <div style="margin-left:10px">
-        <h2 align="left">Streak</h2>
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osmarpb97&show_icons=true&theme=buefy" alt="osmarpb97" /></p>
-    </div>
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
