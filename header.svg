@@ -94,18 +94,8 @@
                 <p>Click to see the source</p>
             </div>
             <div class="flex">
-                <div style="margin-right:10px">
-                    <h2 align="left">Github Stats </h2>
-                    <p>&nbsp;<img align="center"
-                            src="https://github-readme-stats.vercel.app/api?username=osmarpb97&show_icons=true&locale=en&theme=buefy"
-                            alt="osmarpb97" /></p>
-                </div>
-                <div style="margin-left:10px">
-                    <h2 align="left">Streak</h2>
-                    <p><img align="center"
-                            src="https://github-readme-streak-stats.herokuapp.com/?user=osmarpb97&show_icons=true&theme=buefy"
-                            alt="osmarpb97" /></p>
-                </div>
+                <p>hi</p>
+                <p>test</p>
             </div>
         </div>
     </foreignObject>

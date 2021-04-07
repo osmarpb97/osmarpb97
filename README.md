@@ -20,8 +20,6 @@
 <p align="left" style="margin-right:10px"> <img 
     src="https://camo.githubusercontent.com/709f3cbabb06b8896edf6890835a638693bb9f70e6002a959e189190d55d6111/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e7376673f763d313033" alt="osmarpb97" /> </p>
 </div>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/osmarpb97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="osmarpb97" height="30" width="40" /></a>
